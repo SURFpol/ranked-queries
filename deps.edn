@@ -6,7 +6,8 @@
         org.clojure/tools.logging       {:mvn/version "0.4.1"}
         cheshire                        {:mvn/version "5.8.0"}
         clj-http                        {:mvn/version "3.9.0"}
-        digest                          {:mvn/version "1.4.8"}}
+        digest                          {:mvn/version "1.4.8"}
+        org.clojure/data.xml            {:mvn/version "0.0.8"}}
 
  :aliases {:outdated {:extra-deps {olical/depot {:mvn/version "1.2.0"}}
                       :main-opts  ["-m" "depot.outdated.main"]}
