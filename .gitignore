@@ -1,3 +1,4 @@
 /target
 /.cpcache
+/output
 .nrepl-port
