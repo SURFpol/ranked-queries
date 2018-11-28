@@ -40,7 +40,7 @@
   [{:keys [item-url title] :as item}]
   (let [{:keys [headers body]} (http/get item-url {:insecure? true
                                                    :as :byte-array})
-        folder "output/"
+        folder "output/all-files/"
         sha1 (digest/sha-1 item-url)]
     {:item (dissoc item :text)
      :headers headers
@@ -56,3 +56,22 @@
 
 (comment
   (map download-item items))
+
+(defn output-queries
+  [out-file]
+  (let [q-dirs (->> "output/queries/"
+                    io/file
+                    (#(.listFiles %))
+                    (remove #(not (.isDirectory %))))
+        queries (for [dir q-dirs]
+                  {:queries [(.getName dir)]
+                   :items (vec (.list dir))})]
+    (with-open [w (io/writer out-file)]
+      (json/generate-stream queries w))))
+
+(comment
+  (output-queries "output/queries.json"))
+
+
+
+
