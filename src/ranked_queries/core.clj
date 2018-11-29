@@ -5,7 +5,8 @@
             [cheshire.core :as json]
             [clj-http.client :as http]
             [digest :as digest]
-            [clojure.data.xml :as xml]))
+            [clojure.data.xml :as xml]
+            [ranked-queries.dev.clipboard :as clip]))
 
 (defn load-items
   [filename]
@@ -91,4 +92,7 @@
                 slurp
                 (json/decode true))]
   (map #(assoc % :hash (digest/sha-1 (:item_url %))) items))
-  
+
+(-> "https://maken.wikiwijs.nl/91192/Wiskundedidactiek_en_ICT/files/3dbbad5871c527e960d2b05183881abdef116f12.pdf"
+    digest/sha-1
+    clip/spit)
