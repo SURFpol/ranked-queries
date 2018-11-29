@@ -72,6 +72,23 @@
 (comment
   (output-queries "output/queries.json"))
 
+(comment
+  "Code to add ranks to the queries"
+  (let [queries (-> "queries.json"
+                    io/file
+                    slurp
+                    (json/decode true))
+        update-items (fn [{:keys [items] :as query}]
+                       (assoc query :items (for [item items]
+                                             {:item item :rank 0})))
+        result (for [query queries] (update-items query))]
+    (with-open [w (io/writer "new-queries.json")]
+      (json/generate-stream result w))))
 
-
-
+(let [items (-> "elasticsearch-documents.json"
+                io/resource
+                io/file
+                slurp
+                (json/decode true))]
+  (map #(assoc % :hash (digest/sha-1 (:item_url %))) items))
+  
