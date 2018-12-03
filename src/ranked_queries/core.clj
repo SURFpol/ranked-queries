@@ -93,12 +93,12 @@
                   io/file
                   slurp
                   (json/decode true))
-        hash-rpl (fn [item] (assoc item :hash (digest/sha-1 (:url item))))]
+        hash-rpl (fn [item] (assoc item :old_hash (digest/sha-1 (:item_url item))))]
     (with-open [w (io/writer "queries-new-hash.json")]
       (json/generate-stream (map hash-rpl items) w))))
 
 (comment
-  (-> "https://maken.wikiwijs.nl/91192/Wiskundedidactiek_en_ICT/files/3dbbad5871c527e960d2b05183881abdef116f12.pdf"
+  (-> "https://delen.edurep.nl/download/e53e0403-4040-4b83-b1f1-efeeabfa372c"
       digest/sha-1
       clip/spit))
 
@@ -128,4 +128,4 @@
                          data (get mapping lookup)]
                      (assoc data :rating (:rank item))))))]
   (with-open [w (io/writer "new-queries.json")]
-    (json/generate-stream (output w))))
+    (json/generate-stream output w)))

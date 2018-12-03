@@ -2,58 +2,70 @@
     {
         "items": [
             {
-                "item": "dbee97270c21023e12646cf528f01352f383fbcb - Evalueren om te leren.webloc",
-                "rank": 6
+                "hash": "dbee97270c21023e12646cf528f01352f383fbcb",
+                "rating": 6,
+                "title": "Evalueren om te leren"
             },
             {
-                "item": "76f47e8cb4767ac5644c57441636a86f16addf64 - Hoogbegaafdheid: onderpresteren.webloc",
-                "rank": 5
+                "hash": "76f47e8cb4767ac5644c57441636a86f16addf64",
+                "rating": 5,
+                "title": "Hoogbegaafdheid: onderpresteren"
             },
             {
-                "item": "aa508762def8fb9f34ed7e0186eca1c4207e7298 - Scaffolding.webloc",
-                "rank": 9
+                "hash": "aa508762def8fb9f34ed7e0186eca1c4207e7298",
+                "rating": 9,
+                "title": "Scaffolding"
             },
             {
-                "item": "18604a456db12d50da67af95f596ab795ea4eb1a - Academic Reflection skills: How?.webloc",
-                "rank": 7
+                "hash": "18604a456db12d50da67af95f596ab795ea4eb1a",
+                "rating": 7,
+                "title": "Academic Reflection skills: How?"
             },
             {
-                "item": "9138f0cf63eb62848bda8a2c7475011f0076bd96 - Systeemdenken: denkgewoonten.webloc",
-                "rank": 7
+                "hash": "9138f0cf63eb62848bda8a2c7475011f0076bd96",
+                "rating": 7,
+                "title": "Systeemdenken: denkgewoonten"
             },
             {
-                "item": "8c87b0c6111df4d2fe8633a8b274851b2ec4a2c0 - Self-Directed Learning.webloc",
-                "rank": 5
+                "hash": "8c87b0c6111df4d2fe8633a8b274851b2ec4a2c0",
+                "rating": 5,
+                "title": "Self-Directed Learning"
             },
             {
-                "item": "fe118ba3f8b3d49a0152f7e1f1bdfbb31490b808 - Academic Reflection Skills: Why?.webloc",
-                "rank": 6
+                "hash": "fe118ba3f8b3d49a0152f7e1f1bdfbb31490b808",
+                "rating": 6,
+                "title": "Academic Reflection Skills: Why?"
             },
             {
-                "item": "5d7f20bc33675e7b4cf5072e856e817bf791c409",
-                "rank": 8
-            },
-            {   
-                "item": "a80adcbe6de881b98115862847a13a5b99b62077",
-                "rank": 5
-            },
-            {   
-                "item": "2d556134bdf44b30de1192331ff99c5be20f9989",
-                "rank": 10
+                "hash": "5d7f20bc33675e7b4cf5072e856e817bf791c409",
+                "rating": 8,
+                "title": null
             },
             {
-                "item": "096e5cd027af3a71586ab0d80ad0f60ab7d83724",
-                "rank": 5
+                "hash": "a80adcbe6de881b98115862847a13a5b99b62077",
+                "rating": 5,
+                "title": "Digitale didactiek 2018"
             },
             {
-                "item": "f38af0f8c004ff6ddf557c3f2ecb0e5508655236",
-                "rank": 7
+                "hash": "2d556134bdf44b30de1192331ff99c5be20f9989",
+                "rating": 10,
+                "title": "_"
             },
             {
-                "item": "0d33bf36292b5167be043d5d6fc87ce04a6b8daa",
-                "rank": 4
+                "hash": "096e5cd027af3a71586ab0d80ad0f60ab7d83724",
+                "rating": 5,
+                "title": "Wiskundedidactiek en ICT"
+            },
+            {
+                "hash": "f38af0f8c004ff6ddf557c3f2ecb0e5508655236",
+                "rating": 7,
+                "title": "Activerende leerstrategieën in het PO"
+            },
+            {
+                "hash": "0d33bf36292b5167be043d5d6fc87ce04a6b8daa",
+                "rating": 4,
+                "title": "Begin de dag goed met een check-in"
             }
-
         ],
         "queries": [
             "leren leren"
@@ -62,20 +74,24 @@
     {
         "items": [
             {
-                "item": "18604a456db12d50da67af95f596ab795ea4eb1a - Academic Reflection skills: How?.webloc",
-                "rank": 10
+                "hash": "18604a456db12d50da67af95f596ab795ea4eb1a",
+                "rating": 10,
+                "title": "Academic Reflection skills: How?"
             },
             {
-                "item": "8c87b0c6111df4d2fe8633a8b274851b2ec4a2c0 - Self-Directed Learning.webloc",
-                "rank": 6
+                "hash": "8c87b0c6111df4d2fe8633a8b274851b2ec4a2c0",
+                "rating": 6,
+                "title": "Self-Directed Learning"
             },
             {
-                "item": "fe118ba3f8b3d49a0152f7e1f1bdfbb31490b808 - Academic Reflection Skills: Why?.webloc",
-                "rank": 10
+                "hash": "fe118ba3f8b3d49a0152f7e1f1bdfbb31490b808",
+                "rating": 10,
+                "title": "Academic Reflection Skills: Why?"
             },
             {
-                "item": "66eb37bb5a84a644c9cc09f1c7cf94ad21b4cb72",
-                "rank": 4
+                "hash": "66eb37bb5a84a644c9cc09f1c7cf94ad21b4cb72",
+                "rating": 4,
+                "title": "Hst. 6 - Verpleegkundige ondersteuning bij zelfmanagement en eigen regie"
             }
         ],
         "queries": [
@@ -85,24 +101,29 @@
     {
         "items": [
             {
-                "item": "ac99fb49d11e751a2f8f4c4a4495ba73fccb31f8 - Written feedback.webloc",
-                "rank": 10
+                "hash": "ac99fb49d11e751a2f8f4c4a4495ba73fccb31f8",
+                "rating": 10,
+                "title": "Written feedback"
             },
             {
-                "item": "d2842a164cdb1ced8e930e5014d9b2f62098e383 - Giving and receiving feedback.webloc",
-                "rank": 10
+                "hash": "d2842a164cdb1ced8e930e5014d9b2f62098e383",
+                "rating": 10,
+                "title": "Giving and receiving feedback"
             },
             {
-                "item": "88923102285c16451edf543177e5695c092e8396 - Teamwork - Active listening and styles of listening.webloc",
-                "rank": 2
+                "hash": "88923102285c16451edf543177e5695c092e8396",
+                "rating": 2,
+                "title": "Teamwork - Active listening and styles of listening"
             },
             {
-                "item": "cb032604d3e78155fea2d69816bb2ab7d3d3a2b2 - Filmpje over feedback geven: Hoe het vooral niet moet. .webloc",
-                "rank": 7
+                "hash": "cb032604d3e78155fea2d69816bb2ab7d3d3a2b2",
+                "rating": 7,
+                "title": "Filmpje over feedback geven: Hoe het vooral niet moet. "
             },
             {
-                "item": "3f0bbc8973afd02a54b874201ed6689a6c84a102",
-                "rank": 4
+                "hash": "38e86545be6acbe8222d8a2f04826011e46c5364",
+                "rating": 4,
+                "title": "Onderwijsontwerp voor het gebruik van mobiele technologie voor excursies en veldwerk."
             }
         ],
         "queries": [
@@ -113,52 +134,64 @@
     {
         "items": [
             {
-                "item": "4e16abcb1e8588b748acf251000f88e016784851 - Transformation technologies.webloc",
-                "rank": 10
+                "hash": "4e16abcb1e8588b748acf251000f88e016784851",
+                "rating": 10,
+                "title": "Transformation technologies"
             },
             {
-                "item": "cc3e4a33e622777ba7148bdeebe438af22d5db8d - Post Transcriptional Gene Silencing.webloc",
-                "rank": 9
+                "hash": "cc3e4a33e622777ba7148bdeebe438af22d5db8d",
+                "rating": 9,
+                "title": "Post Transcriptional Gene Silencing"
             },
             {
-                "item": "eac410ea67d53c2c68ece9f17e37485d4d585e5b - Golden rice - A case study in plant biotechnology.webloc",
-                "rank": 4
+                "hash": "eac410ea67d53c2c68ece9f17e37485d4d585e5b",
+                "rating": 4,
+                "title": "Golden rice - A case study in plant biotechnology"
             },
             {
-                "item": "f7c28b1b14cb1b5c9a31c0b50f8f682d43aa6c71 - New developments in Plant Biotechnology.webloc",
-                "rank": 8
+                "hash": "f7c28b1b14cb1b5c9a31c0b50f8f682d43aa6c71",
+                "rating": 8,
+                "title": "New developments in Plant Biotechnology"
             },
             {
-                "item": "8b441b6d7b0430379ffd20722e2374e216d3524d - Agrobacterium 1.webloc",
-                "rank": 7
+                "hash": "8b441b6d7b0430379ffd20722e2374e216d3524d",
+                "rating": 7,
+                "title": "Agrobacterium 1"
             },
             {
-                "item": "bf1e6ebc55e3b82d5ddd7cf070c5afa18f28ada3 - Agrobacterium 2.webloc",
-                "rank": 8
+                "hash": "bf1e6ebc55e3b82d5ddd7cf070c5afa18f28ada3",
+                "rating": 8,
+                "title": "Agrobacterium 2"
             },
             {
-                "item": "64ddbd677d33432e93ff02fde06975e5d5d76e0a - What is Plant Biotechnology.webloc",
-                "rank": 3
+                "hash": "64ddbd677d33432e93ff02fde06975e5d5d76e0a",
+                "rating": 3,
+                "title": "What is Plant Biotechnology"
             },
             {
-                "item": "2ed46d8cec0de60faa3f6066e09ad8f43befe17d - Chromosome structural change.webloc",
-                "rank": 7
+                "hash": "2ed46d8cec0de60faa3f6066e09ad8f43befe17d",
+                "rating": 7,
+                "title": "Chromosome structural change"
             },
             {
-                "item": "4dc7c22ffd942a6e4615ec3fb297f57d87c8320c",
-                "rank": 5
+                "hash": "4dc7c22ffd942a6e4615ec3fb297f57d87c8320c",
+                "rating": 5,
+                "title": "Tissue culture and regeneration"
             },
             {
-                "item": "c8c4e26a56bebfa7cec05bbf59898fa364c6ea24",
-                "rank": 4
+                "hash": "c8c4e26a56bebfa7cec05bbf59898fa364c6ea24",
+                "rating": 4,
+                "title": "Introduction to the course"
             },
             {
-                "item": "c5bf6a5601ee0b248ad96f9482f021f60638dbbb",
-                "rank": 8
+                "hash": "c5bf6a5601ee0b248ad96f9482f021f60638dbbb",
+                "rating": 8,
+                "title": "The next level of regulation"
             },
             {
-                "item": "416218c8e4ba406507afb591b51df9ebe5a0264b",
-                "rank": 8
+                "hash": "416218c8e4ba406507afb591b51df9ebe5a0264b",
+                "rating": 8,
+                "title": "Enhancing genetic variation"
             }
         ],
         "queries": [
@@ -169,88 +202,109 @@
     {
         "items": [
             {
-                "item": "b3330452c1e086ed20ba4854ab3bbce66d805f67 - Harmony.webloc",
-                "rank": 10
+                "hash": "2f4c55ef5047103d2b77e9b01e2a2d49c596ebc0",
+                "rating": 10,
+                "title": "Harmony"
             },
             {
-                "item": "8f1d65b781a41b249ed0bc44e7e2bf5d9a73fa18 - Harmonic and melodic minor scales.webloc",
-                "rank": 10
+                "hash": "08608efaefcd0e56c533058b7b275af5e13d0ff7",
+                "rating": 10,
+                "title": "Harmonic and melodic minor scales"
             },
             {
-                "item": "af6c71976ccfa7870727b61c20c5d927f60d3fc9 - Les 5 - Harmonie.webloc",
-                "rank": 10
+                "hash": "13d10b06fa031314cdb57362602227dc9f76ab4b",
+                "rating": 10,
+                "title": "Les 5 - Harmonie"
             },
             {
-                "item": "978ab56d725df9ce43d563d014929a0b108a9640 - Les 3 - Harmonie.webloc",
-                "rank": 10
+                "hash": "582f1bab1d9bd46a72f21ae221b54491814705cc",
+                "rating": 10,
+                "title": "Les 3 - Harmonie"
             },
             {
-                "item": "92da3a4a5fa02e00c437edb4e105bdedef34da23 - Les 2 - Harmonie.webloc",
-                "rank": 10
+                "hash": "ffffbbc3943cf9a26b155ad19b6f6aa25c161108",
+                "rating": 10,
+                "title": "Les 2 - Harmonie"
             },
             {
-                "item": "c3af0b6ecbdd6bd249018bb56c7d428b21cba5a3 - Les 4 - Harmonie.webloc",
-                "rank": 10
+                "hash": "64098edd5e5e907a7e62b0faf7e332518ddbed4e",
+                "rating": 10,
+                "title": "Les 4 - Harmonie"
             },
             {
-                "item": "f96aefea165f2aed6f24eef43d404e6b63f29216 - Les 1 - Harmonie.webloc",
-                "rank": 10
+                "hash": "d745a7cb01e50125c22deb3cb5866123e790472f",
+                "rating": 10,
+                "title": "Les 1 - Harmonie"
             },
             {
-                "item": "9987eb775f819874763592a4b661210df0513bba",
-                "rank": 5
+                "hash": "1e09534c244d903673af12ed74953cf538fe1726",
+                "rating": 5,
+                "title": "Blues handout"
             },
             {
-                "item": "8c7abaa71bbd3a4a2348d4313859d05ad0284637",
-                "rank": 2
+                "hash": "b1e1c3c0cb9269f277fae739bd428b7de0279730",
+                "rating": 2,
+                "title": "Trappen in majeur en mineur toonsoorten"
             },
             {
-                "item": "277beea22a060a63efabce9a4a33462890cd9ccb",
-                "rank": 2
+                "hash": "c4e80ed9b6910480e7dd8b196a8d9c4adcdc1f2d",
+                "rating": 2,
+                "title": "Les 9 - Melodie"
             },
             {
-                "item": "8975994973eae43692340f38b091518f895af6af",
-                "rank": 2
+                "hash": "4a1dd26b16eeae40e8bb5e7aa9be379a0650b2c9",
+                "rating": 2,
+                "title": "Use of consonance and dissonance"
             },
             {
-                "item": "f806855553a29f6ca1e865d84518d814baa38d8d",
-                "rank": 2
+                "hash": "e24c8df28483889dcf80102d13b82fbc073ce8ba",
+                "rating": 2,
+                "title": "Advanced scales"
             },
             {
-                "item": "243a46af62ae4024bea04dd04ef02917b7bcb78a",
-                "rank": 4
+                "hash": "ed28b5863365cb1268caa55bda2e1a5cd6daf9ac",
+                "rating": 4,
+                "title": "Basic diatonic scales"
             },
             {
-                "item": "cfd986a450a1b26c0887ffb01aaf169e4b738415",
-                "rank": 2
+                "hash": "388e5be19fd6cb24126ded21a66d690533dec6df",
+                "rating": 2,
+                "title": "Traditional classification of intervals in consonant and dissonant"
             },
             {
-                "item": "b650bb98bf8af55e11a54d3b44250bcf194711d6",
-                "rank": 1
+                "hash": "f3da2e7b135bbfd7d59c8136d890d3729e1fbdae",
+                "rating": 1,
+                "title": "Score indications concerning form"
             },
             {
-                "item": "2d47c820b5de66adbab06f51d8852931d60f3927",
-                "rank": 5
+                "hash": "633ca8026256dae257b5660c923fc5b544c14e8e",
+                "rating": 5,
+                "title": "Advanced triads"
             },
             {
-                "item": "acb35d2458ad04020dc204c1db202ea7882181a7",
-                "rank": 1
+                "hash": "9a2fddaa7ca8e7f2991c8e5f08b8725f174fa897",
+                "rating": 1,
+                "title": "Basic 4-voice positions of triads"
             },
             {
-                "item": "b8d5a66713cee7f1bbde48784316cc3b1f9321ce",
-                "rank": 1
+                "hash": "7d3d3ec465321f5853ed2e41e20aa17e2ea99683",
+                "rating": 1,
+                "title": "Notation of intervals, chords and harmony"
             },
             {
-                "item": "9426a9dd057ed0ad69c54bb48fdf3741aefba7fd",
-                "rank": 3
+                "hash": "be02d85cda842cb255ec682cdb31a19a5891eba6",
+                "rating": 3,
+                "title": "Triads as basic degrees in major and minor"
             },
             {
-                "item": "6e6d307a3f50e83c1e1af624201a63c64c81e5cf",
-                "rank": 4
+                "hash": "e1f0d2e611f0a437eda0c7dfa49858b074dba224",
+                "rating": 4,
+                "title": "Zingen van cadensen en akkoordprogressies"
             },
             {
-                "item": "2e2888020779c88e2349599986238ba0360d56f1",
-                "rank": 7
+                "hash": "fa3cb7a43d2b43a641d6f16e3838c3f285140ec8",
+                "rating": 7,
+                "title": "Handout harmonievreemde tonen"
             }
         ],
         "queries": [
@@ -261,136 +315,169 @@
     {
         "items": [
             {
-                "item": "0c0b6e96db2b99b35353151dda1659dd8b2ac79e - Info over de opzet van een partituur.webloc",
-                "rank": 0
+                "hash": "4e64085e43f526be3a804537383ba63381a2f545",
+                "rating": 0,
+                "title": "Info over de opzet van een partituur"
             },
             {
-                "item": "01ed3e74684eac916f5da58d6d959a428c60612f - Reader praktische muzieknotatie.webloc",
-                "rank": 0
+                "hash": "77640e4cf841b5e01895b1bcd3dbf21040fd6064",
+                "rating": 0,
+                "title": "Reader praktische muzieknotatie"
             },
             {
-                "item": "9639eac7d479939e44dddce46d42e5468beb7e9d - Basic tones.webloc",
-                "rank": 0
+                "hash": "d5ea5dad5e5bd1e5243b149d7c72350508ae7130",
+                "rating": 0,
+                "title": "Basic tones"
             },
             {
-                "item": "dc23b319d6a056c4f8ccf80ca823f9329ad07d9e - Overzicht notatie gitaar.webloc",
-                "rank": 0
+                "hash": "ddbdfc7ab50e5e371e5e63ac455ccbfc528a364c",
+                "rating": 0,
+                "title": "Overzicht notatie gitaar"
             },
             {
-                "item": "ffc40a2bef71dc08e13e8334b28ba6d5e584fab7 - Akkoordsymbolen 2.webloc",
-                "rank": 0
+                "hash": "d67f333c7a402fabaca0434ebbc43f6dd4ef604e",
+                "rating": 0,
+                "title": "Akkoordsymbolen 2"
             },
             {
-                "item": "e7c8e10d993cd0aad950c62b61464e5e5bce035d - Akkoordsymbolen 1.webloc",
-                "rank": 0
+                "hash": "ca7764bf9bf176796e29fb096a308ac7b9096f69",
+                "rating": 0,
+                "title": "Akkoordsymbolen 1"
             },
             {
-                "item": "f806855553a29f6ca1e865d84518d814baa38d8d - Advanced scales.webloc",
-                "rank": 0
+                "hash": "e24c8df28483889dcf80102d13b82fbc073ce8ba",
+                "rating": 0,
+                "title": "Advanced scales"
             },
             {
-                "item": "3afa3474ece58710c4e68e7e94984324f1643c25 - Dots.webloc",
-                "rank": 0
+                "hash": "eeda1ac0d9c51ca1d7f043f9ea98397c6af16f48",
+                "rating": 0,
+                "title": "Dots"
             },
             {
-                "item": "dc4fa2b7d8aaee04c451401138ee9aba6a87ed63 - Beaming.webloc",
-                "rank": 0
+                "hash": "46358442d0e4f654f43015411f4e7b3e98d49fd8",
+                "rating": 0,
+                "title": "Beaming"
             },
             {
-                "item": "5425d8087e39ba19369f5317209ebba130df824f - Notatie slagwerk.webloc",
-                "rank": 0
+                "hash": "11cec5fc710c4bbb6ba5e3c7fa84fadb4ec13fd1",
+                "rating": 0,
+                "title": "Notatie slagwerk"
             },
             {
-                "item": "dcecab8e35b23e82aab88b916961544bdfdaffcc - Scales.webloc",
-                "rank": 0
+                "hash": "65f9827f36e453004dfa758666f0e8400df26268",
+                "rating": 0,
+                "title": "Scales"
             },
             {
-                "item": "20a8b2e26237d04ac0c5ea84146d68a496ad6516 - Akkoordsymbolen schrijven.webloc",
-                "rank": 0
+                "hash": "b97d677652dc520ed71655f9ef5540024d8b70d2",
+                "rating": 0,
+                "title": "Akkoordsymbolen schrijven"
             },
             {
-                "item": "bb3871c6b75594a8fcac7c37044b415e275dc959 - Odd time signatures.webloc",
-                "rank": 0
+                "hash": "a92b8bbd0588282cd49c484d5d467816dcb46bce",
+                "rating": 0,
+                "title": "Odd time signatures"
             },
             {
-                "item": "b8d5a66713cee7f1bbde48784316cc3b1f9321ce - Notation of intervals, chords and harmony.webloc",
-                "rank": 0
+                "hash": "7d3d3ec465321f5853ed2e41e20aa17e2ea99683",
+                "rating": 0,
+                "title": "Notation of intervals, chords and harmony"
             },
             {
-                "item": "d323e0101b5487db4ff34457f40691d74de1542b - Opdracht 8 - correcte ritmische notatie in diverse maatsoorten.webloc",
-                "rank": 0
+                "hash": "9ea1d32bc645ff9d29ea3f1790b01f0919019072",
+                "rating": 0,
+                "title": "Opdracht 8 - correcte ritmische notatie in diverse maatsoorten"
             },
             {
-                "item": "31385387a7f5b14e973bf1fb8a4986d84e6fd9ab - Notation in scores.webloc",
-                "rank": 0
+                "hash": "e3847ba4651430f1b65d3025dc942b0ff92e29c2",
+                "rating": 0,
+                "title": "Notation in scores"
             },
             {
-                "item": "7ee74dd2dbbc2691256c53a95a0d8a8db8fac2e8 - Keys.webloc",
-                "rank": 0
+                "hash": "f8bea1f038ed6c76c6a4a6fad0c520f0a4701a5a",
+                "rating": 0,
+                "title": "Keys"
             },
             {
-                "item": "cd87df0d77a28761763b1e38d849dc20f7232d0d - Map of keys.webloc",
-                "rank": 0
+                "hash": "cedf6e79d13b27ab5e90a1c3aa54d48855a9334b",
+                "rating": 0,
+                "title": "Map of keys"
             },
             {
-                "item": "07fd9c8c59cd1f565c345246fe9e14e946acaf2f - Thirds.webloc",
-                "rank": 0
+                "hash": "1d091d56e951e14b18f4b8a06b5b6aa8a5045ddd",
+                "rating": 0,
+                "title": "Thirds"
             },
             {
-                "item": "5cc0f658be145c0d4a07eb767a91e0974c815cb6 - Triads.webloc",
-                "rank": 0
+                "hash": "14c0cebb6e36ebf29059122ff38826c546b7e469",
+                "rating": 0,
+                "title": "Triads"
             },
             {
-                "item": "97412749b4bdd6f80d542f0c875e4285953050db - Form.webloc",
-                "rank": 0
+                "hash": "ed3495792c77493a08486e954352c06f588748d5",
+                "rating": 0,
+                "title": "Form"
             },
             {
-                "item": "0d0f9dcfe04db5a2e1b389a19b0fe4b037e23290 - Sevenths.webloc",
-                "rank": 0
+                "hash": "d6ef4b02bffcfde2d53d2831261d0d5abfecc0f3",
+                "rating": 0,
+                "title": "Sevenths"
             },
             {
-                "item": "e5caf46fcf8009cd4a9bf666a322f04677c0a42e - Fifths.webloc",
-                "rank": 0
+                "hash": "8486f8293dc516c7f1fadb9a13dc009ae511a3c4",
+                "rating": 0,
+                "title": "Fifths"
             },
             {
-                "item": "c15f23d9dd422d6a36293e29b76604159ea76359 - Correct rhythmical notation.webloc",
-                "rank": 0
+                "hash": "a6f683c8149a8a6fa3cb2c6c552d3c8cd630846e",
+                "rating": 0,
+                "title": "Correct rhythmical notation"
             },
             {
-                "item": "56b89e45bb063e2352fcdccae5e72d11b7e7b6c3 - Symbols for notes and rests.webloc",
-                "rank": 0
+                "hash": "242c721c16aa01363f2d409089139daae92df073",
+                "rating": 0,
+                "title": "Symbols for notes and rests"
             },
             {
-                "item": "5ed6ef118510d3087c81106ab11e60bcf495a8b6 - Opdracht 4 - van tab naar chart.webloc",
-                "rank": 0
+                "hash": "5e8da9faa288a1e02d9a463a39bfc012d2409079",
+                "rating": 0,
+                "title": "Opdracht 4 - van tab naar chart"
             },
             {
-                "item": "373c68c82456c69e9e30f9527c101e8972db49f2 - Octaves and unisons.webloc",
-                "rank": 0
+                "hash": "4e5fc1d1db863bff45db11614911116b19b2d038",
+                "rating": 0,
+                "title": "Octaves and unisons"
             },
             {
-                "item": "e9928e263bd7e82e95b1923593b94960e52c4b0a - Rhythm.webloc",
-                "rank": 0
+                "hash": "336c95d03a1fac104a6c8e8e6e2ce4058be3f472",
+                "rating": 0,
+                "title": "Rhythm"
             },
             {
-                "item": "d635b70e68df4e6117f3ad82df63802ee63121cb - Ties.webloc",
-                "rank": 0
+                "hash": "6bfc6e698539daa55c05bab53fdddafeaeeb5dbb",
+                "rating": 0,
+                "title": "Ties"
             },
             {
-                "item": "b35203db8ee9e0259a6c0e6ac51622ea25504e9d - Tonality.webloc",
-                "rank": 0
+                "hash": "a5ed35dd52887490253b9da77acb941329dfef8b",
+                "rating": 0,
+                "title": "Tonality"
             },
             {
-                "item": "a4df957e09e124c684e93c41e642aad38fd8e4ea - Fourths.webloc",
-                "rank": 0
+                "hash": "f2126965580a743c215a22fb3ac93714a910a9e1",
+                "rating": 0,
+                "title": "Fourths"
             },
             {
-                "item": "1dd1b2900f64af06dfb9bb3f61646fadfc2eeebd - Pentatonic scales.webloc",
-                "rank": 0
+                "hash": "952200a6d98fe4e5280c2166353246c3fee36e34",
+                "rating": 0,
+                "title": "Pentatonic scales"
             },
             {
-                "item": "d2f93b0492921f1be58c28f0fb04b86c42939f3f - Tuplets.webloc",
-                "rank": 0
+                "hash": "9c88d0c46956a94f082f5809d35c0b2fd35ffdad",
+                "rating": 0,
+                "title": "Tuplets"
             }
         ],
         "queries": [
@@ -402,20 +489,24 @@
     {
         "items": [
             {
-                "item": "a1e38ce2d4e07590117abf89340bf5fd51b94805 - Youtubefilm 'Living with a black dog' WHO.webloc",
-                "rank": 0
+                "hash": "a1e38ce2d4e07590117abf89340bf5fd51b94805",
+                "rating": 0,
+                "title": "Youtubefilm 'Living with a black dog' WHO"
             },
             {
-                "item": "26a14ae72d8aa1c015510d55e500fe869f426d12 - Zelfdoding onder jongvolwassenen (lezing).webloc",
-                "rank": 0
+                "hash": "26a14ae72d8aa1c015510d55e500fe869f426d12",
+                "rating": 0,
+                "title": "Zelfdoding onder jongvolwassenen (lezing)"
             },
             {
-                "item": "21df87d060fa3429233e9e973154ac566a1d5c3f - Depression - Example of determinants of health.webloc",
-                "rank": 0
+                "hash": "21df87d060fa3429233e9e973154ac566a1d5c3f",
+                "rating": 0,
+                "title": "Depression - Example of determinants of health"
             },
             {
-                "item": "ec31d475621e5be2a7944f99664182e7deed5269 - Youtubefilm 'I had a black dog, his name was depression', WHO.webloc",
-                "rank": 0
+                "hash": "ec31d475621e5be2a7944f99664182e7deed5269",
+                "rating": 0,
+                "title": "Youtubefilm 'I had a black dog, his name was depression', WHO"
             }
         ],
         "queries": [
@@ -428,20 +519,24 @@
     {
         "items": [
             {
-                "item": "692ac993cd66a7c53c44f12a0ee0d6b876d0a0eb - Digitale didactiek 2018.webloc",
-                "rank": 0
+                "hash": "a80adcbe6de881b98115862847a13a5b99b62077",
+                "rating": 0,
+                "title": "Digitale didactiek 2018"
             },
             {
-                "item": "d0acc71ac1749d94209e0506ba076ac5b78a0be1 - Hoe houd je orde in de klas?.webloc",
-                "rank": 0
+                "hash": "d0acc71ac1749d94209e0506ba076ac5b78a0be1",
+                "rating": 0,
+                "title": "Hoe houd je orde in de klas?"
             },
             {
-                "item": "e5635d92d4d6f8f72de75e12a38d7280dbe45577 - Provocatief coachen van een leerling.webloc",
-                "rank": 0
+                "hash": "e5635d92d4d6f8f72de75e12a38d7280dbe45577",
+                "rating": 0,
+                "title": "Provocatief coachen van een leerling"
             },
             {
-                "item": "d2030e2c7b8d136b42061376d2c6ae5d45f7ff40 - Disciplinegesprek met een mbo-student.webloc",
-                "rank": 0
+                "hash": "d2030e2c7b8d136b42061376d2c6ae5d45f7ff40",
+                "rating": 0,
+                "title": "Disciplinegesprek met een mbo-student"
             }
         ],
         "queries": [
@@ -451,56 +546,69 @@
     {
         "items": [
             {
-                "item": "210919468eea438e55798719f2faa1f6f361c5c1 - Epidemiology of cardiovascular diseases.webloc",
-                "rank": 0
+                "hash": "210919468eea438e55798719f2faa1f6f361c5c1",
+                "rating": 0,
+                "title": "Epidemiology of cardiovascular diseases"
             },
             {
-                "item": "b0b6b9a4441d99de1268428042065a12a7f2349b - Methods and strategies in Intervention mapping and the public health cycle.webloc",
-                "rank": 0
+                "hash": "b0b6b9a4441d99de1268428042065a12a7f2349b",
+                "rating": 0,
+                "title": "Methods and strategies in Intervention mapping and the public health cycle"
             },
             {
-                "item": "5c3b995a7db291a1c8d85e0104fe611bc1ad9e22 - What is epidemiology about?.webloc",
-                "rank": 0
+                "hash": "5c3b995a7db291a1c8d85e0104fe611bc1ad9e22",
+                "rating": 0,
+                "title": "What is epidemiology about?"
             },
             {
-                "item": "f8556f299cbd2c6700bf361719d6bb4ead0bacd0 - Theories in Public Health Nutrition - Automatic behavior.webloc",
-                "rank": 0
+                "hash": "f8556f299cbd2c6700bf361719d6bb4ead0bacd0",
+                "rating": 0,
+                "title": "Theories in Public Health Nutrition - Automatic behavior"
             },
             {
-                "item": "accdb35a369a6fbfb10145790984c3a57a34ebd6 - Implementation in Intervention mapping and the public health cycle.webloc",
-                "rank": 0
+                "hash": "accdb35a369a6fbfb10145790984c3a57a34ebd6",
+                "rating": 0,
+                "title": "Implementation in Intervention mapping and the public health cycle"
             },
             {
-                "item": "2b1413c7cd70b2f8967377fad7e640166327c0de - Introduction course Epidemiology and Public Health Policies.webloc",
-                "rank": 0
+                "hash": "2b1413c7cd70b2f8967377fad7e640166327c0de",
+                "rating": 0,
+                "title": "Introduction course Epidemiology and Public Health Policies"
             },
             {
-                "item": "acb69eed6c98b465507deb58ce79933c1a05bf9f - Introduction to Analytical Epidemiology and Public Health.webloc",
-                "rank": 0
+                "hash": "acb69eed6c98b465507deb58ce79933c1a05bf9f",
+                "rating": 0,
+                "title": "Introduction to Analytical Epidemiology and Public Health"
             },
             {
-                "item": "28d2739802a935c90a1829b774050bc6308cdc5c - Project instructions for Epidemiology and Public Health Policies.webloc",
-                "rank": 0
+                "hash": "28d2739802a935c90a1829b774050bc6308cdc5c",
+                "rating": 0,
+                "title": "Project instructions for Epidemiology and Public Health Policies"
             },
             {
-                "item": "5b135c821754b457032bac9ca947dd2349c97c85 - Descriptive epidemiology.webloc",
-                "rank": 0
+                "hash": "5b135c821754b457032bac9ca947dd2349c97c85",
+                "rating": 0,
+                "title": "Descriptive epidemiology"
             },
             {
-                "item": "eed8d23e4f4b142bf04a9a962ab4aef6e390a3f1 - Introduction to infectious diseases.webloc",
-                "rank": 0
+                "hash": "eed8d23e4f4b142bf04a9a962ab4aef6e390a3f1",
+                "rating": 0,
+                "title": "Introduction to infectious diseases"
             },
             {
-                "item": "cf92f2726f45908b33d006de64d5f42153dcc1ca - Study designs in analytical epidemiology.webloc",
-                "rank": 0
+                "hash": "cf92f2726f45908b33d006de64d5f42153dcc1ca",
+                "rating": 0,
+                "title": "Study designs in analytical epidemiology"
             },
             {
-                "item": "f5a6dbdd62e9e329ca92066ea1a592defd5c7f04 - Reflection of different measures.webloc",
-                "rank": 0
+                "hash": "f5a6dbdd62e9e329ca92066ea1a592defd5c7f04",
+                "rating": 0,
+                "title": "Reflection of different measures"
             },
             {
-                "item": "eef2df3658e0eea6da1bf3b778a05242601f8ac5 - Introduction to Descriptive Epidemiology and Public Health.webloc",
-                "rank": 0
+                "hash": "eef2df3658e0eea6da1bf3b778a05242601f8ac5",
+                "rating": 0,
+                "title": "Introduction to Descriptive Epidemiology and Public Health"
             }
         ],
         "queries": [
@@ -510,20 +618,24 @@
     {
         "items": [
             {
-                "item": "330d36593b97ec9864b9557f8a0a4b3c400d4a06 - Genomics has revolutionized genetics.webloc",
-                "rank": 0
+                "hash": "330d36593b97ec9864b9557f8a0a4b3c400d4a06",
+                "rating": 0,
+                "title": "Genomics has revolutionized genetics"
             },
             {
-                "item": "a329d8328109c884b83a372e3c7ef6889d8c7a5c - Forward and reverse genetics.webloc",
-                "rank": 0
+                "hash": "a329d8328109c884b83a372e3c7ef6889d8c7a5c",
+                "rating": 0,
+                "title": "Forward and reverse genetics"
             },
             {
-                "item": "b46085dd10f88c58c3bece1d325a0c1d2a9a6f18 - The history of a definition of a gene.webloc",
-                "rank": 0
+                "hash": "b46085dd10f88c58c3bece1d325a0c1d2a9a6f18",
+                "rating": 0,
+                "title": "The history of a definition of a gene"
             },
             {
-                "item": "ad8c53134e5d1c8293895eb1cfb46ba4e25b5ec5 - What's a gene?.webloc",
-                "rank": 0
+                "hash": "ad8c53134e5d1c8293895eb1cfb46ba4e25b5ec5",
+                "rating": 0,
+                "title": "What's a gene?"
             }
         ],
         "queries": [
@@ -533,16 +645,19 @@
     {
         "items": [
             {
-                "item": "6f6ae1d8cd6a2cc541620ded919f9f317466cdd5 - Meneer Megens: Rekenuitleg oplossen en injecteren.webloc",
-                "rank": 0
+                "hash": "6f6ae1d8cd6a2cc541620ded919f9f317466cdd5",
+                "rating": 0,
+                "title": "Meneer Megens: Rekenuitleg oplossen en injecteren"
             },
             {
-                "item": "d6c8ce2beb547aac34a63c3b1621aed50f7515d0 - Subcutaan injecteren loodrechttechniek.webloc",
-                "rank": 0
+                "hash": "d6c8ce2beb547aac34a63c3b1621aed50f7515d0",
+                "rating": 0,
+                "title": "Subcutaan injecteren loodrechttechniek"
             },
             {
-                "item": "01ca8a7f469196922a1660c277f4b07d5fe9d794 - Subcutaan injecteren huidplooitechniek.webloc",
-                "rank": 0
+                "hash": "01ca8a7f469196922a1660c277f4b07d5fe9d794",
+                "rating": 0,
+                "title": "Subcutaan injecteren huidplooitechniek"
             }
         ],
         "queries": [
