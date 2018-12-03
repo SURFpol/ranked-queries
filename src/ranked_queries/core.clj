@@ -86,13 +86,46 @@
     (with-open [w (io/writer "new-queries.json")]
       (json/generate-stream result w))))
 
-(let [items (-> "elasticsearch-documents.json"
-                io/resource
+(comment
+  "Replace hashes in resource file"
+  (let [items (-> "elasticsearch-documents.json"
+                  io/resource
+                  io/file
+                  slurp
+                  (json/decode true))
+        hash-rpl (fn [item] (assoc item :hash (digest/sha-1 (:url item))))]
+    (with-open [w (io/writer "queries-new-hash.json")]
+      (json/generate-stream (map hash-rpl items) w))))
+
+(comment
+  (-> "https://maken.wikiwijs.nl/91192/Wiskundedidactiek_en_ICT/files/3dbbad5871c527e960d2b05183881abdef116f12.pdf"
+      digest/sha-1
+      clip/spit))
+
+;Correct the hashes in queries.json
+(def mapping
+  (let [all-items (-> "elasticsearch-documents.json"
+                      io/resource
+                      io/file
+                      slurp
+                      (json/decode true))
+        make-map (fn [item] [(digest/sha-1 (:item_url item))
+                             {:hash (digest/sha-1 (:url item))
+                              :title (:title item)}])]
+    (into {} (map make-map all-items))))
+
+(let [regex #"([\w]{40})( - (.+))?"
+      input (-> "queries.json"
                 io/file
                 slurp
-                (json/decode true))]
-  (map #(assoc % :hash (digest/sha-1 (:item_url %))) items))
-
-(-> "https://maken.wikiwijs.nl/91192/Wiskundedidactiek_en_ICT/files/3dbbad5871c527e960d2b05183881abdef116f12.pdf"
-    digest/sha-1
-    clip/spit)
+                (json/decode true))
+      add-old-hash (fn [item] (assoc item :old-hash (->> item :item (re-matches regex) second)))
+      output (for [query input]
+               (assoc query :items
+                 (for [item (:items query)]
+                   (let [new-item (add-old-hash item)
+                         lookup (:old-hash new-item)
+                         data (get mapping lookup)]
+                     (assoc data :rating (:rank item))))))]
+  (with-open [w (io/writer "new-queries.json")]
+    (json/generate-stream (output w))))
