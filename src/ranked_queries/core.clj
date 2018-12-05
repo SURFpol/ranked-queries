@@ -98,7 +98,7 @@
       (json/generate-stream (map hash-rpl items) w))))
 
 (comment
-  (-> "https://delen.edurep.nl/download/e53e0403-4040-4b83-b1f1-efeeabfa372c"
+  (-> "https://surfsharekit.nl/resolve/98cdafe4-32b1-474d-8959-0fa6be0d33cb"
       digest/sha-1
       clip/spit))
 
@@ -114,18 +114,45 @@
                               :title (:title item)}])]
     (into {} (map make-map all-items))))
 
-(let [regex #"([\w]{40})( - (.+))?"
-      input (-> "queries.json"
-                io/file
-                slurp
-                (json/decode true))
-      add-old-hash (fn [item] (assoc item :old-hash (->> item :item (re-matches regex) second)))
-      output (for [query input]
-               (assoc query :items
-                 (for [item (:items query)]
-                   (let [new-item (add-old-hash item)
-                         lookup (:old-hash new-item)
-                         data (get mapping lookup)]
-                     (assoc data :rating (:rank item))))))]
-  (with-open [w (io/writer "new-queries.json")]
-    (json/generate-stream output w)))
+(comment
+  (let [regex #"([\w]{40})( - (.+))?"
+        input (-> "queries.json"
+                  io/file
+                  slurp
+                  (json/decode true))
+        add-old-hash (fn [item] (assoc item :old-hash (->> item :item (re-matches regex) second)))
+        output (for [query input]
+                 (assoc query :items
+                   (for [item (:items query)]
+                     (let [new-item (add-old-hash item)
+                           lookup (:old-hash new-item)
+                           data (get mapping lookup)]
+                       (assoc data :rating (:rank item))))))]
+    (with-open [w (io/writer "new-queries.json")]
+      (json/generate-stream output w))))
+
+(comment
+  (let [items (-> "elasticsearch-documents.json"
+                  io/resource
+                  io/file
+                  slurp
+                  (json/decode true))
+        output    (->> items
+                       (filter #(some #{"Didactiek van statistiek"} (:keywords %)))
+                       (map (fn [item] (select-keys item [:hash :title])))
+                       (map (fn [item] (assoc item :rating 0))))]
+    (with-open [w (io/writer "new-queries.json")]
+      (json/generate-stream output w))))
+
+(comment
+  (let [items (-> "elasticsearch-documents.json"
+                  io/resource
+                  io/file
+                  slurp
+                  (json/decode true))
+        output    (->> items
+                       (filter #(= "Didactiek van macro-meso-micro denken bij scheikunde" (:title %)))
+                       (map (fn [item] (select-keys item [:hash :title])))
+                       (map (fn [item] (assoc item :rating 0))))]
+    (with-open [w (io/writer "new-queries.json")]
+      (json/generate-stream output w))))

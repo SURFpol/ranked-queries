@@ -315,19 +315,29 @@
     {
         "items": [
             {
-                "hash": "4e64085e43f526be3a804537383ba63381a2f545",
-                "rating": 8,
-                "title": "Info over de opzet van een partituur"
-            },
-            {
-                "hash": "77640e4cf841b5e01895b1bcd3dbf21040fd6064",
-                "rating": 10,
-                "title": "Reader praktische muzieknotatie"
-            },
-            {
-                "hash": "d5ea5dad5e5bd1e5243b149d7c72350508ae7130",
+                "hash": "11cec5fc710c4bbb6ba5e3c7fa84fadb4ec13fd1",
                 "rating": 9,
-                "title": "Basic tones"
+                "title": "Notatie slagwerk"
+            },
+            {
+                "hash": "9c7d96181c4b152d739fc7b26b59c76ac9604536",
+                "rating": 6,
+                "title": "Opdracht 2 - Like a Lover"
+            },
+            {
+                "hash": "3015050a4a3d1ff70d058dc73fd02a063deab03d",
+                "rating": 6,
+                "title": "Opdracht 6 - Sting 'All four seasons'"
+            },
+            {
+                "hash": "0543a8dfa18c68044e36de7037e5c21e5302c2f9",
+                "rating": 6,
+                "title": "Opdracht 3 + toelichting: leadsheet / rhythm chart"
+            },
+            {
+                "hash": "5e8da9faa288a1e02d9a463a39bfc012d2409079",
+                "rating": 8,
+                "title": "Opdracht 4 - van tab naar chart"
             },
             {
                 "hash": "ddbdfc7ab50e5e371e5e63ac455ccbfc528a364c",
@@ -335,155 +345,44 @@
                 "title": "Overzicht notatie gitaar"
             },
             {
-                "hash": "d67f333c7a402fabaca0434ebbc43f6dd4ef604e",
-                "rating": 8,
-                "title": "Akkoordsymbolen 2"
-            },
-            {
-                "hash": "ca7764bf9bf176796e29fb096a308ac7b9096f69",
-                "rating": 0,
-                "title": "Akkoordsymbolen 1"
-            },
-            {
-                "hash": "e24c8df28483889dcf80102d13b82fbc073ce8ba",
-                "rating": 0,
-                "title": "Advanced scales"
-            },
-            {
-                "hash": "eeda1ac0d9c51ca1d7f043f9ea98397c6af16f48",
-                "rating": 0,
-                "title": "Dots"
-            },
-            {
-                "hash": "46358442d0e4f654f43015411f4e7b3e98d49fd8",
-                "rating": 0,
-                "title": "Beaming"
-            },
-            {
-                "hash": "11cec5fc710c4bbb6ba5e3c7fa84fadb4ec13fd1",
-                "rating": 0,
-                "title": "Notatie slagwerk"
-            },
-            {
-                "hash": "65f9827f36e453004dfa758666f0e8400df26268",
-                "rating": 0,
-                "title": "Scales"
-            },
-            {
-                "hash": "b97d677652dc520ed71655f9ef5540024d8b70d2",
-                "rating": 0,
-                "title": "Akkoordsymbolen schrijven"
-            },
-            {
-                "hash": "a92b8bbd0588282cd49c484d5d467816dcb46bce",
-                "rating": 0,
-                "title": "Odd time signatures"
-            },
-            {
-                "hash": "7d3d3ec465321f5853ed2e41e20aa17e2ea99683",
-                "rating": 0,
-                "title": "Notation of intervals, chords and harmony"
-            },
-            {
                 "hash": "9ea1d32bc645ff9d29ea3f1790b01f0919019072",
-                "rating": 0,
+                "rating": 8,
                 "title": "Opdracht 8 - correcte ritmische notatie in diverse maatsoorten"
             },
             {
-                "hash": "e3847ba4651430f1b65d3025dc942b0ff92e29c2",
-                "rating": 0,
-                "title": "Notation in scores"
+                "hash": "77640e4cf841b5e01895b1bcd3dbf21040fd6064",
+                "rating": 10,
+                "title": "Reader praktische muzieknotatie"
             },
             {
-                "hash": "f8bea1f038ed6c76c6a4a6fad0c520f0a4701a5a",
-                "rating": 0,
-                "title": "Keys"
+                "hash": "d610580ea5cea9d1cc0889d9e52ef5add8c1fc31",
+                "rating": 7,
+                "title": "Overzicht bereik en transposities veel voorkomende instrumenten"
             },
             {
-                "hash": "cedf6e79d13b27ab5e90a1c3aa54d48855a9334b",
-                "rating": 0,
-                "title": "Map of keys"
+                "hash": "77445fd7c82ce5724dbd8c1ca7ce76eefe863c2d",
+                "rating": 6,
+                "title": "Opdracht 5 - slagwerk"
             },
             {
-                "hash": "1d091d56e951e14b18f4b8a06b5b6aa8a5045ddd",
-                "rating": 0,
-                "title": "Thirds"
+                "hash": "4e64085e43f526be3a804537383ba63381a2f545",
+                "rating": 10,
+                "title": "Info over de opzet van een partituur"
             },
             {
-                "hash": "14c0cebb6e36ebf29059122ff38826c546b7e469",
-                "rating": 0,
-                "title": "Triads"
+                "hash": "ba4b64e48949d8d6094f131f4c2a9aecab17119a",
+                "rating": 6,
+                "title": "Opdracht 3 - Rhythm chart / band sheet"
             },
             {
-                "hash": "ed3495792c77493a08486e954352c06f588748d5",
-                "rating": 0,
-                "title": "Form"
-            },
-            {
-                "hash": "d6ef4b02bffcfde2d53d2831261d0d5abfecc0f3",
-                "rating": 0,
-                "title": "Sevenths"
-            },
-            {
-                "hash": "8486f8293dc516c7f1fadb9a13dc009ae511a3c4",
-                "rating": 0,
-                "title": "Fifths"
-            },
-            {
-                "hash": "a6f683c8149a8a6fa3cb2c6c552d3c8cd630846e",
-                "rating": 0,
-                "title": "Correct rhythmical notation"
-            },
-            {
-                "hash": "242c721c16aa01363f2d409089139daae92df073",
-                "rating": 0,
-                "title": "Symbols for notes and rests"
-            },
-            {
-                "hash": "5e8da9faa288a1e02d9a463a39bfc012d2409079",
-                "rating": 0,
-                "title": "Opdracht 4 - van tab naar chart"
-            },
-            {
-                "hash": "4e5fc1d1db863bff45db11614911116b19b2d038",
-                "rating": 0,
-                "title": "Octaves and unisons"
-            },
-            {
-                "hash": "336c95d03a1fac104a6c8e8e6e2ce4058be3f472",
-                "rating": 0,
-                "title": "Rhythm"
-            },
-            {
-                "hash": "6bfc6e698539daa55c05bab53fdddafeaeeb5dbb",
-                "rating": 0,
-                "title": "Ties"
-            },
-            {
-                "hash": "a5ed35dd52887490253b9da77acb941329dfef8b",
-                "rating": 0,
-                "title": "Tonality"
-            },
-            {
-                "hash": "f2126965580a743c215a22fb3ac93714a910a9e1",
-                "rating": 0,
-                "title": "Fourths"
-            },
-            {
-                "hash": "952200a6d98fe4e5280c2166353246c3fee36e34",
-                "rating": 0,
-                "title": "Pentatonic scales"
-            },
-            {
-                "hash": "9c88d0c46956a94f082f5809d35c0b2fd35ffdad",
-                "rating": 0,
-                "title": "Tuplets"
+                "hash": "9699dc0be2e54f3d59ced179c30ab7bf7ef19618",
+                "rating": 6,
+                "title": "Opdracht 1 - Sonate van Mozart"
             }
         ],
         "queries": [
             "noteren van muziek",
-            "noten schrijven",
-            "noten lezen"
+            "noten schrijven"
         ]
     },
     {
@@ -520,23 +419,248 @@
         "items": [
             {
                 "hash": "a80adcbe6de881b98115862847a13a5b99b62077",
-                "rating": 0,
+                "rating": 9,
                 "title": "Digitale didactiek 2018"
             },
             {
-                "hash": "d0acc71ac1749d94209e0506ba076ac5b78a0be1",
-                "rating": 0,
-                "title": "Hoe houd je orde in de klas?"
+                "hash": "600a70a38d380768a6fc8728389688d94e1efbc3",
+                "rating": 8,
+                "title": "Wiskundedidactiek en ICT"
             },
             {
-                "hash": "e5635d92d4d6f8f72de75e12a38d7280dbe45577",
-                "rating": 0,
-                "title": "Provocatief coachen van een leerling"
+                "hash": "3126e3e4c682155d25782d1b89f02d5239d2c189",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
             },
             {
-                "hash": "d2030e2c7b8d136b42061376d2c6ae5d45f7ff40",
-                "rating": 0,
-                "title": "Disciplinegesprek met een mbo-student"
+                "hash": "b8b7b242ce79ff5c08a9d40cf012f6b2487d317f",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "e1ef6c1079a3ffe09ac2e406e55faad799d259f8",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "8d79c8ebbabcb4b106f4110192d2baaa16be26f4",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "df1a75c96d6d2f70843d1998f9e01ce27f281f08",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "85330ad1ba2a97f325a4b42c02ac55c0a391d8ac",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "3a31fb369a0fd2a0d7cdf2b33ce84be8d6341eff",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "d9206d6ac4ab1a09be72523a846cd4f3db543afd",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "fd4584d124e1acc9c160680cc2c54f7f52d8e105",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "b21ae2cd05c438b02950569bab521bd7400f71f0",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "c48935b434a8aa86d5ba9c31836b7d3deddf73bd",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "9c0ab4f3c3e9878edd2680d9a80412a3f9c264b1",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "da6a3e7b904ab0407a7ad301596a6777f44ce012",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "49a6a38e570445d1062a02dba03a02270624b87d",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "53e4eedb146223c43a26620f568a950461d3ef5e",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "834e54ccb5918cced3d4f8e5208f9984b500e821",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "3126e3e4c682155d25782d1b89f02d5239d2c189",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "2f4531b92c401b9e3e284c91b291adf39c34c703",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "a13e80ad5bfd533ca032e619c36cc0d3c4557a69",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "8134fa602a51e3a148e7277ed4f5fc21bb793da6",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "4b32ead372ce99860e912512c9feff8425cd0225",
+                "rating": 7,
+                "title": "Didactiek van statistiek"
+            },
+            {
+                "hash": "2d9950d6720734cc9d9ab9f0735a9df9dca00162",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "6ff7a7182456a7bd13a869033a1bedc2026aef9a",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "76d29891fcc47e8d5469a1c149e10012b0c50a25",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "a6cf4849e712c26789e484274ad2ab7d0161694f",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "d6899b33138c8cfb0d544f3c58bcf60c4771e92a",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "2dd430cf00547807361f9ee3f627581be4067d29",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "15350fb67a0634c6612e5a575fed67b75409e365",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "dc55a6bb1c525b3494c07d0557f557605ffec7c2",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "5f3a2fbd68ac781672140d32205ad3f65efb1cf5",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "9cbf76cde769383dea612483e2050fd406a7f526",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "20e5ff773304208a71c8e7a2f8cc57b4782df49d",
+                "rating": 7,
+                "title": "Didactiek van wiskundig denken"
+            },
+            {
+                "hash": "0ceec31110fa7df31532172e4d7cb51baaf3e853",
+                "rating": 5,
+                "title": "Didactiek bij burgerschap"
+            },
+            {
+                "hash": "e06696ad07df3d98deee1e715fa405107334180c",
+                "rating": 6,
+                "title": "Eigentijdse levensbeschouwing met didactiek Dialoog School"
+            },
+            {
+                "hash": "a6e373f1143ac9849a53908ae9ae00dba5a22d7c",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "16345455a453a4f3f0f8fefb7d7fbe9faccb198e",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "6b797f151cb34f689be449727bc09d1655b88491",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "fad305747f4f5ecd2be9b2fa61186c2c93cbca34",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "8bd5d220a3f3b229545553b2d446938cec07299a",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "52477bb84759f5f5cb230148a7036cd4e1ebd695",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "c338676462eb6672e9a766387ecf9ac150430147",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "a6e373f1143ac9849a53908ae9ae00dba5a22d7c",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "16345455a453a4f3f0f8fefb7d7fbe9faccb198e",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "6b797f151cb34f689be449727bc09d1655b88491",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "fad305747f4f5ecd2be9b2fa61186c2c93cbca34",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "8bd5d220a3f3b229545553b2d446938cec07299a",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "c338676462eb6672e9a766387ecf9ac150430147",
+                "rating": 7,
+                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
             }
         ],
         "queries": [
@@ -572,42 +696,42 @@
             },
             {
                 "hash": "2b1413c7cd70b2f8967377fad7e640166327c0de",
-                "rating": 0,
+                "rating": 8,
                 "title": "Introduction course Epidemiology and Public Health Policies"
             },
             {
                 "hash": "acb69eed6c98b465507deb58ce79933c1a05bf9f",
-                "rating": 0,
+                "rating": 8,
                 "title": "Introduction to Analytical Epidemiology and Public Health"
             },
             {
                 "hash": "28d2739802a935c90a1829b774050bc6308cdc5c",
-                "rating": 0,
+                "rating": 6,
                 "title": "Project instructions for Epidemiology and Public Health Policies"
             },
             {
                 "hash": "5b135c821754b457032bac9ca947dd2349c97c85",
-                "rating": 0,
+                "rating": 8,
                 "title": "Descriptive epidemiology"
             },
             {
                 "hash": "eed8d23e4f4b142bf04a9a962ab4aef6e390a3f1",
-                "rating": 0,
+                "rating": 8,
                 "title": "Introduction to infectious diseases"
             },
             {
                 "hash": "cf92f2726f45908b33d006de64d5f42153dcc1ca",
-                "rating": 0,
+                "rating": 7,
                 "title": "Study designs in analytical epidemiology"
             },
             {
                 "hash": "f5a6dbdd62e9e329ca92066ea1a592defd5c7f04",
-                "rating": 0,
+                "rating": 7,
                 "title": "Reflection of different measures"
             },
             {
                 "hash": "eef2df3658e0eea6da1bf3b778a05242601f8ac5",
-                "rating": 0,
+                "rating": 5,
                 "title": "Introduction to Descriptive Epidemiology and Public Health"
             }
         ],
@@ -619,23 +743,48 @@
         "items": [
             {
                 "hash": "330d36593b97ec9864b9557f8a0a4b3c400d4a06",
-                "rating": 0,
+                "rating": 7,
                 "title": "Genomics has revolutionized genetics"
             },
             {
                 "hash": "a329d8328109c884b83a372e3c7ef6889d8c7a5c",
-                "rating": 0,
+                "rating": 8,
                 "title": "Forward and reverse genetics"
             },
             {
                 "hash": "b46085dd10f88c58c3bece1d325a0c1d2a9a6f18",
-                "rating": 0,
+                "rating": 10,
                 "title": "The history of a definition of a gene"
             },
             {
                 "hash": "ad8c53134e5d1c8293895eb1cfb46ba4e25b5ec5",
-                "rating": 0,
+                "rating": 10,
                 "title": "What's a gene?"
+            },
+            {
+                "hash": "06922d3284ebb5e9a881fbf2bf7daa9bc604de90",
+                "rating": 6,
+                "title": "Homology"
+            },
+            {
+                "hash": "416218c8e4ba406507afb591b51df9ebe5a0264b",
+                "rating": 6,
+                "title": "Enhancing genetic variation"
+            },
+            {
+                "hash": "f7c28b1b14cb1b5c9a31c0b50f8f682d43aa6c71",
+                "rating": 5,
+                "title": "New developments in Plant Biotechnology"
+            },
+            {
+                "hash": "64ddbd677d33432e93ff02fde06975e5d5d76e0a",
+                "rating": 4,
+                "title": "What is Plant Biotechnology"
+            },
+            {
+                "hash": "e108b17b5bb701fb21ba15bdb6ca66df97b711ae",
+                "rating": 4,
+                "title": "Lifestyles of filamentous plant pathogens: fungi and oomycetes"
             }
         ],
         "queries": [
@@ -646,17 +795,17 @@
         "items": [
             {
                 "hash": "6f6ae1d8cd6a2cc541620ded919f9f317466cdd5",
-                "rating": 0,
+                "rating": 5,
                 "title": "Meneer Megens: Rekenuitleg oplossen en injecteren"
             },
             {
                 "hash": "d6c8ce2beb547aac34a63c3b1621aed50f7515d0",
-                "rating": 0,
+                "rating": 10,
                 "title": "Subcutaan injecteren loodrechttechniek"
             },
             {
                 "hash": "01ca8a7f469196922a1660c277f4b07d5fe9d794",
-                "rating": 0,
+                "rating": 10,
                 "title": "Subcutaan injecteren huidplooitechniek"
             }
         ],
