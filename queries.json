@@ -406,7 +406,38 @@
                 "hash": "ec31d475621e5be2a7944f99664182e7deed5269",
                 "rating": 8,
                 "title": "Youtubefilm 'I had a black dog, his name was depression', WHO"
+            },
+            {
+                "hash": "",
+                "rating": 6,
+                "title": "cyberpesten"
+            },
+            {
+                "hash": "",
+                "rating": 5,
+                "title": "Werkblad Beschrijving Interventie"
+            },
+            {
+                "hash": "",
+                "rating": 1,
+                "title": "RCTs quality and validity"
+            },
+            {
+                "hash": "",
+                "rating": 1,
+                "title": "Engels - radicalisation"
+            },
+            {
+                "hash": "https://maken.wikiwijs.nl/130159/Keuzeprofiel_Digispel__Dienstverlening_en_Producten_vmbo____kopie_1/files/67c0a35eb0fad96d62b4c242a9f103ded28286d1.pdf",
+                "rating": 3,
+                "title": "PowerPoint-presentatie"
+            },
+            {
+                "hash": "",
+                "rating": 3,
+                "title": "Geneesmiddel van de week - Lithium "
             }
+            
         ],
         "queries": [
             "depressie",
@@ -661,6 +692,36 @@
                 "hash": "c338676462eb6672e9a766387ecf9ac150430147",
                 "rating": 7,
                 "title": "Didactiek van macro-meso-micro denken bij scheikunde"
+            },
+            {
+                "hash": "",
+                "rating": 5,
+                "title": "Spelling & Dyslexie 2 P4 2018"
+
+            },
+            {   "hash": "https://maken.wikiwijs.nl/91192/Wiskundedidactiek_en_ICT/files/31bebee3eb2c7d8c9634eae5a8c09bcfa24ba1ea.pdf",
+                "rating": 7,
+                "title": "Wiskunde didactiek en ICT"
+            },
+            {   "hash": "https://maken.wikiwijs.nl/91192/Wiskundedidactiek_en_ICT/files/3dbbad5871c527e960d2b05183881abdef116f12.pdf",
+                "rating": 7,
+                "title": "Wiskunde didactiek en ICT"
+            },
+            {   "hash": "ICT en onderwijs: TPACK, blended learning, flipping the classroom",
+                "rating": 5,
+                "title": "ICT en onderwijs: TPACK, blended learning, flipping the classroom"
+            },
+            {   "hash": "",
+                "rating": 7,
+                "title": "LESGEVEN IN SPELLING"
+            },
+            {   "hash": "https://maken.wikiwijs.nl/113900/Digitale_didactiek_2018/files/2bc61673442d75d2630a9cb3361eda5c81af14b4.pdf",
+                "rating": 8,
+                "title": "Digitale didactiek 2018"
+            },
+            {   "hash": "https://maken.wikiwijs.nl/91192/Wiskundedidactiek_en_ICT/files/c7db1bd04f9d7bf7be04800d4fc1e82c4d351f78.pdf",
+                "rating": 7,
+                "title": "Wiskunde didactiek en ICT"
             }
         ],
         "queries": [
@@ -733,7 +794,13 @@
                 "hash": "eef2df3658e0eea6da1bf3b778a05242601f8ac5",
                 "rating": 5,
                 "title": "Introduction to Descriptive Epidemiology and Public Health"
-            }
+            },
+            { 
+                "hash": "",
+                "rating": 9,
+                "title": "Epidemiology : an academic and applied science"
+            },
+            
         ],
         "queries": [
             "epidemiologie"
@@ -807,7 +874,24 @@
                 "hash": "01ca8a7f469196922a1660c277f4b07d5fe9d794",
                 "rating": 10,
                 "title": "Subcutaan injecteren huidplooitechniek"
+            },
+            {
+                "hash": "https://delen.edurep.nl/download/9364a407-d1eb-4621-93f1-e2359baa5a1a",
+                "rating": 2,
+                "title": "Kennisclip hepatitis"
+            },
+            {
+                "hash": "https://www.youtube.com/watch?v=poUhN-Nrmhk",
+                "rating": 3,
+                "title": "Geneesmiddel van de week - Glucagon "
+            },
+            {
+                "hash": "https://www.youtube.com/watch?v=HIa3sikyWQ8",
+                "rating": 3,
+                "title": "Geneesmiddel van de week - Adrenaline "
             }
+            
+
         ],
         "queries": [
             "injecteren",
