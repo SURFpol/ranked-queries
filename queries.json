@@ -418,7 +418,7 @@
                 "title": "Werkblad Beschrijving Interventie"
             },
             {
-                "hash": "",
+                "hash": "39cbf57e14f8eca2174f1523972669eb91e5c5ef",
                 "rating": 1,
                 "title": "RCTs quality and validity"
             },
@@ -539,11 +539,6 @@
                 "title": "Didactiek van statistiek"
             },
             {
-                "hash": "3126e3e4c682155d25782d1b89f02d5239d2c189",
-                "rating": 7,
-                "title": "Didactiek van statistiek"
-            },
-            {
                 "hash": "2f4531b92c401b9e3e284c91b291adf39c34c703",
                 "rating": 7,
                 "title": "Didactiek van statistiek"
@@ -639,11 +634,6 @@
                 "title": "Didactiek van macro-meso-micro denken bij scheikunde"
             },
             {
-                "hash": "6b797f151cb34f689be449727bc09d1655b88491",
-                "rating": 7,
-                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
-            },
-            {
                 "hash": "fad305747f4f5ecd2be9b2fa61186c2c93cbca34",
                 "rating": 7,
                 "title": "Didactiek van macro-meso-micro denken bij scheikunde"
@@ -664,32 +654,7 @@
                 "title": "Didactiek van macro-meso-micro denken bij scheikunde"
             },
             {
-                "hash": "a6e373f1143ac9849a53908ae9ae00dba5a22d7c",
-                "rating": 7,
-                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
-            },
-            {
-                "hash": "16345455a453a4f3f0f8fefb7d7fbe9faccb198e",
-                "rating": 7,
-                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
-            },
-            {
                 "hash": "6b797f151cb34f689be449727bc09d1655b88491",
-                "rating": 7,
-                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
-            },
-            {
-                "hash": "fad305747f4f5ecd2be9b2fa61186c2c93cbca34",
-                "rating": 7,
-                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
-            },
-            {
-                "hash": "8bd5d220a3f3b229545553b2d446938cec07299a",
-                "rating": 7,
-                "title": "Didactiek van macro-meso-micro denken bij scheikunde"
-            },
-            {
-                "hash": "c338676462eb6672e9a766387ecf9ac150430147",
                 "rating": 7,
                 "title": "Didactiek van macro-meso-micro denken bij scheikunde"
             },
@@ -714,14 +679,6 @@
             {   "hash": "c72334bcb5f4c517ecacdb76b0654c2725c47ff9",
                 "rating": 7,
                 "title": "LESGEVEN IN SPELLING"
-            },
-            {   "hash": "a80adcbe6de881b98115862847a13a5b99b62077",
-                "rating": 8,
-                "title": "Digitale didactiek 2018"
-            },
-            {   "hash": "600a70a38d380768a6fc8728389688d94e1efbc3",
-                "rating": 7,
-                "title": "Wiskunde didactiek en ICT"
             }
         ],
         "queries": [
@@ -784,8 +741,7 @@
                 "hash": "401035affeb86d1dcba441593b2ff22d78e9910a",
                 "rating": 9,
                 "title": "Epidemiology : an academic and applied science"
-            },
-
+            }
         ],
         "queries": [
             "epidemiologie"
