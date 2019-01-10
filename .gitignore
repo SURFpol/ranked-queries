@@ -2,3 +2,5 @@
 /.cpcache
 /output
 .nrepl-port
+.ipynb_checkpoints
+
