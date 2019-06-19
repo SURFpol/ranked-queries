@@ -1,0 +1,259 @@
+{
+    "leren leren": {
+        "collections": {
+            "leraar24": 3,
+            "wur": 3,
+            "figshare": 1,
+            "wwmhbo": 3
+        },
+        "mime_types": {
+            "video": 6,
+            "application/pdf": 4
+        },
+        "ids": [
+            "dbee97270c21023e12646cf528f01352f383fbcb",
+            "76f47e8cb4767ac5644c57441636a86f16addf64",
+            "18604a456db12d50da67af95f596ab795ea4eb1a",
+            "8c87b0c6111df4d2fe8633a8b274851b2ec4a2c0",
+            "fe118ba3f8b3d49a0152f7e1f1bdfbb31490b808",
+            "5d7f20bc33675e7b4cf5072e856e817bf791c409",
+            "a80adcbe6de881b98115862847a13a5b99b62077",
+            "2d556134bdf44b30de1192331ff99c5be20f9989",
+            "096e5cd027af3a71586ab0d80ad0f60ab7d83724",
+            "f38af0f8c004ff6ddf557c3f2ecb0e5508655236"
+        ]
+    },
+    "reflectievaardigheden": {
+        "collections": {
+            "wur": 3,
+            "hbovpk": 1
+        },
+        "mime_types": {
+            "video": 3,
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document": 1
+        },
+        "ids": [
+            "18604a456db12d50da67af95f596ab795ea4eb1a",
+            "8c87b0c6111df4d2fe8633a8b274851b2ec4a2c0",
+            "fe118ba3f8b3d49a0152f7e1f1bdfbb31490b808",
+            "66eb37bb5a84a644c9cc09f1c7cf94ad21b4cb72"
+        ]
+    },
+    "feedback geven / giving feedback": {
+        "collections": {
+            "wur": 2,
+            "stimuleringsmaatregel": 1
+        },
+        "mime_types": {
+            "video": 2,
+            "application/pdf": 1
+        },
+        "ids": [
+            "d2842a164cdb1ced8e930e5014d9b2f62098e383",
+            "88923102285c16451edf543177e5695c092e8396",
+            "38e86545be6acbe8222d8a2f04826011e46c5364"
+        ]
+    },
+    "genetische modificatie / biology transformation": {
+        "collections": {
+            "wur": 9
+        },
+        "mime_types": {
+            "video": 9
+        },
+        "ids": [
+            "cc3e4a33e622777ba7148bdeebe438af22d5db8d",
+            "eac410ea67d53c2c68ece9f17e37485d4d585e5b",
+            "f7c28b1b14cb1b5c9a31c0b50f8f682d43aa6c71",
+            "64ddbd677d33432e93ff02fde06975e5d5d76e0a",
+            "2ed46d8cec0de60faa3f6066e09ad8f43befe17d",
+            "4dc7c22ffd942a6e4615ec3fb297f57d87c8320c",
+            "c8c4e26a56bebfa7cec05bbf59898fa364c6ea24",
+            "c5bf6a5601ee0b248ad96f9482f021f60638dbbb",
+            "416218c8e4ba406507afb591b51df9ebe5a0264b"
+        ]
+    },
+    "harmonie / harmonie muziek": {
+        "collections": {
+            "stimuleringsmaatregel": 11
+        },
+        "mime_types": {
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document": 10,
+            "application/pdf": 1
+        },
+        "ids": [
+            "08608efaefcd0e56c533058b7b275af5e13d0ff7",
+            "4a1dd26b16eeae40e8bb5e7aa9be379a0650b2c9",
+            "e24c8df28483889dcf80102d13b82fbc073ce8ba",
+            "ed28b5863365cb1268caa55bda2e1a5cd6daf9ac",
+            "388e5be19fd6cb24126ded21a66d690533dec6df",
+            "f3da2e7b135bbfd7d59c8136d890d3729e1fbdae",
+            "633ca8026256dae257b5660c923fc5b544c14e8e",
+            "9a2fddaa7ca8e7f2991c8e5f08b8725f174fa897",
+            "7d3d3ec465321f5853ed2e41e20aa17e2ea99683",
+            "be02d85cda842cb255ec682cdb31a19a5891eba6",
+            "e1f0d2e611f0a437eda0c7dfa49858b074dba224"
+        ]
+    },
+    "noteren van muziek / noten schrijven": {
+        "collections": {
+            "stimuleringsmaatregel": 12
+        },
+        "mime_types": {
+            "application/pdf": 12
+        },
+        "ids": [
+            "11cec5fc710c4bbb6ba5e3c7fa84fadb4ec13fd1",
+            "9c7d96181c4b152d739fc7b26b59c76ac9604536",
+            "3015050a4a3d1ff70d058dc73fd02a063deab03d",
+            "5e8da9faa288a1e02d9a463a39bfc012d2409079",
+            "ddbdfc7ab50e5e371e5e63ac455ccbfc528a364c",
+            "9ea1d32bc645ff9d29ea3f1790b01f0919019072",
+            "77640e4cf841b5e01895b1bcd3dbf21040fd6064",
+            "d610580ea5cea9d1cc0889d9e52ef5add8c1fc31",
+            "77445fd7c82ce5724dbd8c1ca7ce76eefe863c2d",
+            "4e64085e43f526be3a804537383ba63381a2f545",
+            "ba4b64e48949d8d6094f131f4c2a9aecab17119a",
+            "9699dc0be2e54f3d59ced179c30ab7bf7ef19618"
+        ]
+    },
+    "depressie / depressiviteit / depressief / depression": {
+        "collections": {
+            "leraar24": 1,
+            "wur": 2,
+            "wwmhbo": 4,
+            "stimuleringsmaatregel": 1
+        },
+        "mime_types": {
+            "video": 4,
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document": 1,
+            "application/pdf": 3
+        },
+        "ids": [
+            "26a14ae72d8aa1c015510d55e500fe869f426d12",
+            "21df87d060fa3429233e9e973154ac566a1d5c3f",
+            "0dd9e946f3aca97d3e7f09df68efc35a114674e7",
+            "eff32a56fad71d67afe3d4fbcaffa42e1a9135f6",
+            "39cbf57e14f8eca2174f1523972669eb91e5c5ef",
+            "7701df9213c5e144e4017c269c2f745cd9c7589d",
+            "4c89bc1b0f5c76b6b58fbd13e590c0921a9c42f8",
+            "abb17d5655caa8c1be59e9ed278ad306b0ba5269"
+        ]
+    },
+    "didactiek": {
+        "collections": {
+            "wwmhbo": 44,
+            "leraar24": 2,
+            "figshare": 1
+        },
+        "mime_types": {
+            "application/pdf": 20,
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document": 24,
+            "video": 2,
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation": 1
+        },
+        "ids": [
+            "a80adcbe6de881b98115862847a13a5b99b62077",
+            "600a70a38d380768a6fc8728389688d94e1efbc3",
+            "3126e3e4c682155d25782d1b89f02d5239d2c189",
+            "b8b7b242ce79ff5c08a9d40cf012f6b2487d317f",
+            "e1ef6c1079a3ffe09ac2e406e55faad799d259f8",
+            "8d79c8ebbabcb4b106f4110192d2baaa16be26f4",
+            "df1a75c96d6d2f70843d1998f9e01ce27f281f08",
+            "85330ad1ba2a97f325a4b42c02ac55c0a391d8ac",
+            "3a31fb369a0fd2a0d7cdf2b33ce84be8d6341eff",
+            "d9206d6ac4ab1a09be72523a846cd4f3db543afd",
+            "fd4584d124e1acc9c160680cc2c54f7f52d8e105",
+            "b21ae2cd05c438b02950569bab521bd7400f71f0",
+            "c48935b434a8aa86d5ba9c31836b7d3deddf73bd",
+            "9c0ab4f3c3e9878edd2680d9a80412a3f9c264b1",
+            "da6a3e7b904ab0407a7ad301596a6777f44ce012",
+            "49a6a38e570445d1062a02dba03a02270624b87d",
+            "53e4eedb146223c43a26620f568a950461d3ef5e",
+            "834e54ccb5918cced3d4f8e5208f9984b500e821",
+            "2f4531b92c401b9e3e284c91b291adf39c34c703",
+            "a13e80ad5bfd533ca032e619c36cc0d3c4557a69",
+            "8134fa602a51e3a148e7277ed4f5fc21bb793da6",
+            "4b32ead372ce99860e912512c9feff8425cd0225",
+            "2d9950d6720734cc9d9ab9f0735a9df9dca00162",
+            "6ff7a7182456a7bd13a869033a1bedc2026aef9a",
+            "76d29891fcc47e8d5469a1c149e10012b0c50a25",
+            "a6cf4849e712c26789e484274ad2ab7d0161694f",
+            "d6899b33138c8cfb0d544f3c58bcf60c4771e92a",
+            "2dd430cf00547807361f9ee3f627581be4067d29",
+            "15350fb67a0634c6612e5a575fed67b75409e365",
+            "dc55a6bb1c525b3494c07d0557f557605ffec7c2",
+            "5f3a2fbd68ac781672140d32205ad3f65efb1cf5",
+            "9cbf76cde769383dea612483e2050fd406a7f526",
+            "20e5ff773304208a71c8e7a2f8cc57b4782df49d",
+            "0ceec31110fa7df31532172e4d7cb51baaf3e853",
+            "e06696ad07df3d98deee1e715fa405107334180c",
+            "a6e373f1143ac9849a53908ae9ae00dba5a22d7c",
+            "16345455a453a4f3f0f8fefb7d7fbe9faccb198e",
+            "fad305747f4f5ecd2be9b2fa61186c2c93cbca34",
+            "8bd5d220a3f3b229545553b2d446938cec07299a",
+            "52477bb84759f5f5cb230148a7036cd4e1ebd695",
+            "c338676462eb6672e9a766387ecf9ac150430147",
+            "6b797f151cb34f689be449727bc09d1655b88491",
+            "9da5ce551c7d507e4df8429daf7f08952ddd28cf",
+            "cd27582428028148af2ae465cf03175314b45f81",
+            "096e5cd027af3a71586ab0d80ad0f60ab7d83724",
+            "e8064096f14ec6d252ba5bccdedcddd9ef1a6734",
+            "c72334bcb5f4c517ecacdb76b0654c2725c47ff9"
+        ]
+    },
+    "epidemiologie": {
+        "collections": {
+            "wur": 11
+        },
+        "mime_types": {
+            "video": 11
+        },
+        "ids": [
+            "210919468eea438e55798719f2faa1f6f361c5c1",
+            "5c3b995a7db291a1c8d85e0104fe611bc1ad9e22",
+            "2b1413c7cd70b2f8967377fad7e640166327c0de",
+            "acb69eed6c98b465507deb58ce79933c1a05bf9f",
+            "28d2739802a935c90a1829b774050bc6308cdc5c",
+            "5b135c821754b457032bac9ca947dd2349c97c85",
+            "eed8d23e4f4b142bf04a9a962ab4aef6e390a3f1",
+            "cf92f2726f45908b33d006de64d5f42153dcc1ca",
+            "f5a6dbdd62e9e329ca92066ea1a592defd5c7f04",
+            "eef2df3658e0eea6da1bf3b778a05242601f8ac5",
+            "401035affeb86d1dcba441593b2ff22d78e9910a"
+        ]
+    },
+    "gene": {
+        "collections": {
+            "wur": 8
+        },
+        "mime_types": {
+            "video": 8
+        },
+        "ids": [
+            "330d36593b97ec9864b9557f8a0a4b3c400d4a06",
+            "a329d8328109c884b83a372e3c7ef6889d8c7a5c",
+            "b46085dd10f88c58c3bece1d325a0c1d2a9a6f18",
+            "06922d3284ebb5e9a881fbf2bf7daa9bc604de90",
+            "416218c8e4ba406507afb591b51df9ebe5a0264b",
+            "f7c28b1b14cb1b5c9a31c0b50f8f682d43aa6c71",
+            "64ddbd677d33432e93ff02fde06975e5d5d76e0a",
+            "e108b17b5bb701fb21ba15bdb6ca66df97b711ae"
+        ]
+    },
+    "injecteren / injecties geven / hoe geef je een injectie": {
+        "collections": {
+            "hbovpk": 1,
+            "stimuleringsmaatregel": 2
+        },
+        "mime_types": {
+            "application/pdf": 1,
+            "video": 2
+        },
+        "ids": [
+            "924612189b319da509fd65a750bbaf67a71185e3",
+            "ef54bed5bd5c6282a319d4745e1040c8385f2485",
+            "f42cf56e799a4908ff5fd54abdd05120970fa0bb"
+        ]
+    }
+}
